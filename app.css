@@ -1,0 +1,43 @@
+/*** general css ***/
+.wrap {
+    width: 90%;
+    margin: 0 auto;
+    max-width: 1100px;
+}
+/*** navigation ***/
+.top-bar {
+    background-color: black;
+}
+.top-bar, .top-bar ul {
+    background-color: black;
+}
+.site-logo {
+    color: white;
+}
+/*** header css ***/
+.header {
+    background-color: lightgray;
+    padding: 100px 50px;
+}
+
+/*** content css ***/
+.content {
+    padding: 80px 30px;
+}
+.button {
+    font-size: 18px;
+}
+.button.success {
+    background-color: lightskyblue;
+}
+/*** footer css ***/
+footer {
+    background-color: black;
+    padding: 80px 0px;
+}
+footer a {
+    display: block;
+}
+footer h4 {
+    color: white;
+}
